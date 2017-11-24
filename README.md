@@ -1,7 +1,7 @@
 # homebrew-scripts
 Homebrew installation of mu.semte.ch helpers on Mac
 
-## adding the tab
+## adding the tap
 `brew tap mu-semtech/scripts`
 
 ## installing (example)
