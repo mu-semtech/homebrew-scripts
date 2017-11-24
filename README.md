@@ -5,4 +5,4 @@ Homebrew installation of mu.semte.ch helpers on Mac
 `brew tap mu-semtech/scripts`
 
 ## installing (example)
-`brew install brew install edi`
+`brew install edi`
