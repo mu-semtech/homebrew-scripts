@@ -4,7 +4,7 @@ class DockerSshAgentForward < Formula
   homepage 'https://github.com/uber-common/docker-ssh-agent-forward'
   url 'https://github.com/uber-common/docker-ssh-agent-forward.git',
       :revision => '494b72d3f946380c760cf6c8bce629be4b9dbb65'
-  version '2.17.1'
+  version '2.18.0'
 
   head 'https://github.com/uber-common/docker-ssh-agent-forward.git'
 
