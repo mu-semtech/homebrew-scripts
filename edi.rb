@@ -3,8 +3,8 @@ require 'formula'
 class Edi < Formula
   homepage 'http://mu.semte.ch'
   url 'https://github.com/madnificent/docker-ember.git',
-      :revision => "4108573acf73bc14ac2b447c533728d07df7352e"
-  version '2.18.0'
+      :revision => "94a730e16aff7965b6974e57d169fdc63b0be921"
+  version '3.0.1'
 
   head 'https://github.com/madnificent/docker-ember.git'
 
